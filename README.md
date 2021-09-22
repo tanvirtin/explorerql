@@ -1,2 +1,0 @@
-# Tinexplorer
-Filesystem GraphQL API
